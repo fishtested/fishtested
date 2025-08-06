@@ -1,6 +1,6 @@
-# Hi there, I'm Fishtested! 👋
+# Hi there, I'm fish! 👋
 
-Welcome to my profile! I love coding and creating cool projects.
+Welcome to my profile! I love coding and creating cool projects sometimes.
 
 ## My top 3 projects
 - **[Weather Somewhere](https://github.com/fishtested/weathersomewhere):** Do you want to know the weather from a random place? My project fetches weather data from a random location using the Open-Meteo API.
